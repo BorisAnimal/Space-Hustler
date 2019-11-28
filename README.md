@@ -11,9 +11,11 @@ The only solution is to unpack wallets and calm monsters with money.
 There are two problems:
 1. Rick and Morty have limited money
 2. Rick is drunk as usual, so ship wiggling
+
 ![](https://github.com/BorisAnimal/Space-Hustler/blob/master/imgs/2.png)
 
-You can try game [here](https://code.world/run.html?mode=haskell&dhash=DrdrjoxYOY4wTF6Zn_p4EfA).
+You can try game [here](https://code.world/run.html?mode=haskell&dhash=D_brMdzboWJEw8uk4mSxrUg).
+
 
 Control: 
 *Left*, *Right* arrows to change direction.
